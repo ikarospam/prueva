@@ -10,6 +10,12 @@
 <body>
 <h1>hola</h1>
     <h1>nuevo elemento</h1>
+    <div class="container">
+    <div class="row">
+        <div class="col">
+        <a href="#" class="btn btn-success">Agregar</a>
+        </div>
+    </div></div>
 </body>
 <script src="node_modules/jquery/dist/jquery.js"></script>
 <script src="node_modules/@popperjs/core/dist/umd/popper.min.js"></script>
