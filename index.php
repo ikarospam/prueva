@@ -9,6 +9,7 @@
 </head>
 <body>
 <h1>hola</h1>
+    <h1>nuevo elemento</h1>
 </body>
 <script src="node_modules/jquery/dist/jquery.js"></script>
 <script src="node_modules/@popperjs/core/dist/umd/popper.min.js"></script>
